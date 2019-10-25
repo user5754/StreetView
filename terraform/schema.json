@@ -1,0 +1,22 @@
+[
+  {
+    "name": "address",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "imageBase64",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "imageText",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "fileName",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }
+]
